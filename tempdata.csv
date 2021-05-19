@@ -1,0 +1,301 @@
+contract_decimals,contract_name,contract_ticker_symbol,contract_address,supports_erc,logo_url,quote_rate,rank
+18,"Wrapped Ether","WETH","0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",,"https://logos.covalenthq.com/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png","2626.9756",2
+18,"BNB","BNB","0xb8c77482e45f1f44de1745f52c74426c631bdd52",,"https://logos.covalenthq.com/tokens/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png","380.31714",3
+6,"Tether USD","USDT","0xdac17f958d2ee523a2206206994597c13d831ec7",,"https://logos.covalenthq.com/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.png","0.9713105",4
+6,"USD Coin","USDC","0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",,"https://logos.covalenthq.com/tokens/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png","0.98019683",9
+18,"Uniswap","UNI","0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",,"https://logos.covalenthq.com/tokens/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png","25.375006",12
+18,"ChainLink Token","LINK","0x514910771af9ca656af840dff83e8264ecf986ca",,"https://logos.covalenthq.com/tokens/0x514910771af9ca656af840dff83e8264ecf986ca.png","29.75556",13
+18,"Matic Token","MATIC","0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",,"https://logos.covalenthq.com/tokens/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png","1.9020531",14
+18,"Binance USD","BUSD","0x4fabb145d64652a948d72533023f6e7a623c7c53",,"https://logos.covalenthq.com/tokens/0x4fabb145d64652a948d72533023f6e7a623c7c53.png","0.9709242",19
+8,"Wrapped BTC","WBTC","0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",,"https://logos.covalenthq.com/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png","38364.44",20
+18,"Aave Token","AAVE","0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",,"https://logos.covalenthq.com/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png","472.11447",22
+18,"SHIBA INU","SHIB","0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",,"https://logos.covalenthq.com/tokens/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png","0.000011590818",25
+18,"OKB","OKB","0x75231f58b43240c9718dd58b4967c5114342a86c",,"https://logos.covalenthq.com/tokens/0x75231f58b43240c9718dd58b4967c5114342a86c.png","18.690966",27
+8,"Compound Ether","cETH","0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",,"https://logos.covalenthq.com/tokens/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5.png","54.29873",31
+18,"Dai Stablecoin","DAI","0x6b175474e89094c44da98b954eedeac495271d0f",,"https://logos.covalenthq.com/tokens/0x6b175474e89094c44da98b954eedeac495271d0f.png","0.9790377",32
+18,"FirstBlood Token","1ST","0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",,"https://logos.covalenthq.com/tokens/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png","19.931183",32
+18,"HuobiToken","HT","0x6f259637dcd74c767781e37bc6133cd6a68aa161",,"https://logos.covalenthq.com/tokens/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png","22.629526",35
+8,"Compound Dai","cDAI","0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",,"https://logos.covalenthq.com/tokens/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643.png","0.020925289",37
+18,"Maker Token","MKR","0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",,"https://logos.covalenthq.com/tokens/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png","3921.6204",38
+8,"Compound USD Coin","cUSDC","0x39aa39c021dfbae8fac545936693ac917d5e7563",,"https://logos.covalenthq.com/tokens/0x39aa39c021dfbae8fac545936693ac917d5e7563.png","0.021470059",41
+18,"FTT","FTX Token","0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",,"https://logos.covalenthq.com/tokens/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png","40.048206",42
+18,"Avalanche","AVAX","0x9debca6ea3af87bf422cea9ac955618ceb56efb4",,"https://logos.covalenthq.com/tokens/0x9debca6ea3af87bf422cea9ac955618ceb56efb4.png","26.40736",44
+8,"CRO","CRO","0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",,"https://logos.covalenthq.com/tokens/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b.png","0.12170359",48
+18,"Bitfinex LEO Token","LEO","0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",,"https://logos.covalenthq.com/tokens/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3.png","3.1600432",50
+18,"Compound","COMP","0xc00e94cb662c3520282e6f5717214004a7f26888",,"https://logos.covalenthq.com/tokens/0xc00e94cb662c3520282e6f5717214004a7f26888.png","507.50742",52
+18,"Synthetix Network Token","SNX","0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",,"https://logos.covalenthq.com/tokens/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png","16.6618",53
+18,"SushiToken","SUSHI","0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",,"https://logos.covalenthq.com/tokens/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png","14.551886",54
+4,"Celsius","CEL","0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",,"https://logos.covalenthq.com/tokens/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png","6.3289723",55
+18,"yearn.finance","YFI","0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",,"https://logos.covalenthq.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png","50188.086",62
+18,"Amp","AMP","0xff20817765cb7f73d4bde2e66e067e58d11095c2",,"https://logos.covalenthq.com/tokens/0xff20817765cb7f73d4bde2e66e067e58d11095c2.png","0.048681434",63
+2,"Telcoin","TEL","0x467bccd9d29f223bce8043b84e8c8b282827790f",,"https://logos.covalenthq.com/tokens/0x467bccd9d29f223bce8043b84e8c8b282827790f.png","0.030479988",66
+18,"chiliZ","CHZ","0x3506424f91fd33084466f402d5d97f05f8e3b4af",,"https://logos.covalenthq.com/tokens/0x3506424f91fd33084466f402d5d97f05f8e3b4af.png","0.29131588",67
+18,"HoloToken","HOT","0x6c6ee5e31d828de241282b9606c8e98ea48526e2",,"https://logos.covalenthq.com/tokens/0x6c6ee5e31d828de241282b9606c8e98ea48526e2.png","0.007924255",70
+18,"Nexo","NEXO","0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",,"https://logos.covalenthq.com/tokens/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png","2.3996854",71
+18,"Enjin Coin","ENJ","0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",,"https://logos.covalenthq.com/tokens/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png","1.3592166",73
+18,"Basic Attention Token","BAT","0x0d8775f648430679a709e98d2b0cb6250d2887ef",,"https://logos.covalenthq.com/tokens/0x0d8775f648430679a709e98d2b0cb6250d2887ef.png","0.8283571",74
+18,"Paxos Standard","PAX","0x8e870d67f660d95d5be530380d0ec0bd388289e1",,"https://logos.covalenthq.com/tokens/0x8e870d67f660d95d5be530380d0ec0bd388289e1.png","0.9894694",77
+18,"TrueUSD","TUSD","0x0000000000085d4780b73119b644ae5ecd22b376",,"https://logos.covalenthq.com/tokens/0x0000000000085d4780b73119b644ae5ecd22b376.png","0.9705378",78
+18,"Huobi BTC","HBTC","0x0316eb71485b0ab14103307bf65a021042c6d380",,"https://logos.covalenthq.com/tokens/0x0316eb71485b0ab14103307bf65a021042c6d380.png","35941.03",80
+18,"Decentraland MANA","MANA","0x0f5d2fb29fb7d3cfee444a200298f468908cc942",,"https://logos.covalenthq.com/tokens/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png","0.89481115",81
+18,"Fantom Token","FTM","0x4e15361fd6b4bb609fa63c81a2be19d873717870",,"https://logos.covalenthq.com/tokens/0x4e15361fd6b4bb609fa63c81a2be19d873717870.png","0.44624647",82
+18,"UMA Voting Token v1","UMA","0x04fa0d235c4abf4bcf4787af4cf447de572ef828",,"https://logos.covalenthq.com/tokens/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png","18.069311",83
+18,"Chimpion","BNANA","0x07ef9e82721ac16809d24dafbe1792ce01654db4",,"https://logos.covalenthq.com/tokens/0x07ef9e82721ac16809d24dafbe1792ce01654db4.png","2.9618402",84
+18,"Fei USD","FEI","0x956f47f50a910163d8bf957cf5846d573e7f87ca",,"https://logos.covalenthq.com/tokens/0x956f47f50a910163d8bf957cf5846d573e7f87ca.png","1.0420145",85
+18,"Bancor Network Token","BNT","0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",,"https://logos.covalenthq.com/tokens/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png","5.2977767",86
+18,"SushiBar","xSUSHI","0x8798249c2e607446efb7ad49ec89dd1865ff4272",,"https://logos.covalenthq.com/tokens/0x8798249c2e607446efb7ad49ec89dd1865ff4272.png","17.166773",87
+18,"Graph Token","GRT","0xc944e90c64b2c07662a292be6244bdf05cda44a7",,"https://logos.covalenthq.com/tokens/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png","0.82797074",90
+18,"0x Protocol Token","ZRX","0xe41d2489571d322189246dafa5ebde1f4699f498",,"https://logos.covalenthq.com/tokens/0xe41d2489571d322189246dafa5ebde1f4699f498.png","1.147491",92
+18,"Liquid staked Ether 2.0","stETH","0xae7ab96520de3a18e5e111b5eaab095312d7fe84",,"https://logos.covalenthq.com/tokens/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png","2676.1204",93
+18,"GateChainToken","GT","0xe66747a101bff2dba3697199dcce5b743b454759",,"https://logos.covalenthq.com/tokens/0xe66747a101bff2dba3697199dcce5b743b454759.png","5.2239814",97
+18,"OMGToken","OMG","0xd26114cd6ee289accf82350c8d8487fedb8a0c07",,"https://logos.covalenthq.com/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png","6.1033382",98
+18,"LUSD Stablecoin","LUSD","0x5f98805a4e8be255a32880fdec7f6728c6568ba0",,"https://logos.covalenthq.com/tokens/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png","0.96821964",99
+8,"SwissBorg Token","CHSB","0xba9d4199fab4f26efe3551d490e3821486f135ba",,"https://logos.covalenthq.com/tokens/0xba9d4199fab4f26efe3551d490e3821486f135ba.png","0.88128847",100
+8,"HUSD","HUSD","0xdf574c24545e5ffecb9a659c229253d4111d87e1",,"https://logos.covalenthq.com/tokens/0xdf574c24545e5ffecb9a659c229253d4111d87e1.png","0.9987421",101
+18,"Ankr Network","ANKR","0x8290333cef9e6d528dd5618fb97a76f268f3edd4",,"https://logos.covalenthq.com/tokens/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png","0.11436274",104
+18,"Curve DAO Token","CRV","0xd533a949740bb3306d119cc777fa900ba034cd52",,"https://logos.covalenthq.com/tokens/0xd533a949740bb3306d119cc777fa900ba034cd52.png","2.1211195",105
+18,"NXM","NXM","0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",,"https://logos.covalenthq.com/tokens/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b.png","101.498474",109
+18,"CY Finance","CYF","0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8",,"https://logos.covalenthq.com/tokens/0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8.png","0.000007727212",111
+8,"Voyager","VGX","0x5af2be193a6abca9c8817001f45744777db30756",,"https://logos.covalenthq.com/tokens/0x5af2be193a6abca9c8817001f45744777db30756.png","2.8528864",111
+18,"Quant","QNT","0x4a220e6096b25eadb88358cb44068a3248254675",,"https://logos.covalenthq.com/tokens/0x4a220e6096b25eadb88358cb44068a3248254675.png","48.890453",114
+8,"Compound USDT","cUSDT","0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",,"https://logos.covalenthq.com/tokens/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png","0.020395976",116
+18,"Reserve Rights","RSR","0x8762db106b2c2a0bccb3a80d1ed41273552616e8",,"https://logos.covalenthq.com/tokens/0x8762db106b2c2a0bccb3a80d1ed41273552616e8.png","0.044045106",118
+18,"1INCH Token","1INCH","0x111111111117dc0aa78b770fa6a738034120c302",,"https://logos.covalenthq.com/tokens/0x111111111117dc0aa78b770fa6a738034120c302.png","3.5143359",119
+6,"Kucoin Shares","KCS","0x039b5649a59967e3e936d7471f9c3700100ee1ab",,"https://logos.covalenthq.com/tokens/0x039b5649a59967e3e936d7471f9c3700100ee1ab.png","6.887264",121
+18,"Livepeer Token","LPT","0x58b6a8a3302369daec383334672404ee733ab239",,"https://logos.covalenthq.com/tokens/0x58b6a8a3302369daec383334672404ee733ab239.png","22.523277",124
+9,"FEGtoken","FEG","0x389999216860ab8e0175387a0c90e5c52522c945",,"https://logos.covalenthq.com/tokens/0x389999216860ab8e0175387a0c90e5c52522c945.png",0,126
+9,"HuskyToken","HUSKY","0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091",,"https://logos.covalenthq.com/tokens/0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091.png",0,128
+18,"LoopringCoin V2","LRC","0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",,"https://logos.covalenthq.com/tokens/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png","0.38172427",128
+6,"Oxygen Ecosystem Token","OXY","0x965697b4ef02f0de01384d0d4f9f782b1670c163",,"https://logos.covalenthq.com/tokens/0x965697b4ef02f0de01384d0d4f9f782b1670c163.png","2.3200953",129
+18,"Republic Token","REN","0x408e41876cccdc0f92210600ef50372656052a38",,"https://logos.covalenthq.com/tokens/0x408e41876cccdc0f92210600ef50372656052a38.png","0.51115507",130
+8,"renBTC","renBTC","0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",,"https://logos.covalenthq.com/tokens/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png","38324.03",131
+18,"Tribe","TRIBE","0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",,"https://logos.covalenthq.com/tokens/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b.png","1.1192867",133
+18,"Pundi X Token","NPXS","0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",,"https://logos.covalenthq.com/tokens/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png","0.0018043038",137
+18,"Status Network Token","SNT","0x744d70fdbe2ba4cf95131626614a1763df805b9e",,"https://logos.covalenthq.com/tokens/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png","0.12286267",138
+18,"Pundi X Token","PUNDIX","0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",,"https://logos.covalenthq.com/tokens/0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38.png","1.6845322",139
+18,"Wrapped MIR Token","MIR","0x09a3ecafa817268f77be1283176b946c4ff2e608",,"https://logos.covalenthq.com/tokens/0x09a3ecafa817268f77be1283176b946c4ff2e608.png","6.4788804",141
+18,"Wise Token","WISE","0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",,"https://logos.covalenthq.com/tokens/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6.png","0.5436094",141
+18,"BitMax token","BTMX","0xcca0c9c383076649604ee31b20248bc04fdf61ca",,"https://logos.covalenthq.com/tokens/0xcca0c9c383076649604ee31b20248bc04fdf61ca.png","0.5393594",142
+18,"Balancer","BAL","0xba100000625a3754423978a60c9317c58a424e3d",,"https://logos.covalenthq.com/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png","36.932594",143
+18,"Shabu Shabu","KOBE","0xcb4e8cafeda995da5cedfda5205bd5664a12b848",,"https://logos.covalenthq.com/tokens/0xcb4e8cafeda995da5cedfda5205bd5664a12b848.png","9.905513",144
+8,"DENT","DENT","0x3597bfd533a99c9aa083587b074434e61eb0a258",,"https://logos.covalenthq.com/tokens/0x3597bfd533a99c9aa083587b074434e61eb0a258.png","0.004002696",145
+18,"BandToken","BAND","0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",,"https://logos.covalenthq.com/tokens/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55.png","10.453758",147
+9,"iEx.ec Network Token","RLC","0x607f4c5bb672230e8672085532f7e901544a7375",,"https://logos.covalenthq.com/tokens/0x607f4c5bb672230e8672085532f7e901544a7375.png","5.1413007",148
+18,"SKALE","SKL","0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",,"https://logos.covalenthq.com/tokens/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7.png","0.36317894",152
+18,"Ocean Token","OCEAN","0x967da4048cd07ab37855c090aaf366e4ce1b9f48",,"https://logos.covalenthq.com/tokens/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png","0.8016982",153
+18,"CelerToken","CELR","0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",,"https://logos.covalenthq.com/tokens/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667.png","0.06065861",154
+18,"Reef.finance","REEF","0xfe3e6a25e6b192a42a44ecddcd13796471735acf",,"https://logos.covalenthq.com/tokens/0xfe3e6a25e6b192a42a44ecddcd13796471735acf.png","0.026693651",155
+18,"Bounce Token","BOT","0x5beabaebb3146685dd74176f68a0721f91297d37",,"https://logos.covalenthq.com/tokens/0x5beabaebb3146685dd74176f68a0721f91297d37.png","9446.862",156
+18,"EthLend Token","LEND","0x80fb784b7ed66730e8b1dbd9820afd29931aab03",,"https://logos.covalenthq.com/tokens/0x80fb784b7ed66730e8b1dbd9820afd29931aab03.png","5.5307517",157
+18,"Injective Token","INJ","0xe28b3b32b6c345a34ff64674606124dd5aceca30",,"https://logos.covalenthq.com/tokens/0xe28b3b32b6c345a34ff64674606124dd5aceca30.png","13.144374",158
+18,"Synth sETH","sETH","0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",,"https://logos.covalenthq.com/tokens/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png","2678.7012",160
+6,"Serum","SRM","0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",,"https://logos.covalenthq.com/tokens/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff.png","6.1949058",162
+18,"Wootrade Network","WOO","0x4691937a7508860f876c9c0a2a617e7d9e945d4b",,"https://logos.covalenthq.com/tokens/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png","0.66724473",163
+4,"Alien Worlds Trilium","TLM","0x888888848b652b3e3a0f34c96e00eec0f3a23f72",,"https://logos.covalenthq.com/tokens/0x888888848b652b3e3a0f34c96e00eec0f3a23f72.png","0.23181637",164
+18,"Golem Network Token","GLM","0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",,"https://logos.covalenthq.com/tokens/0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429.png","0.29131588",165
+18,"Alchemix","ALCX","0xdbdb4d16eda451d0503b854cf79d55697f90c8df",,"https://logos.covalenthq.com/tokens/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.png","1036.3876",166
+18,"Gnosis Token","GNO","0x6810e776880c02933d47db1b9fc05908e5386b96",,"https://logos.covalenthq.com/tokens/0x6810e776880c02933d47db1b9fc05908e5386b96.png","182.5094",167
+9,"Ampleforth","AMPL","0xd46ba6d942050d489dbd938a2c909a5d5039a161",,"https://logos.covalenthq.com/tokens/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png","0.6915854",168
+8,"SingularityNET Token","AGI","0x8eb24319393716668d768dcec29356ae9cffe285",,"https://logos.covalenthq.com/tokens/0x8eb24319393716668d768dcec29356ae9cffe285.png","0.28552046",169
+18,"TitanSwap","Titan","0x3a8cccb969a61532d1e6005e2ce12c200caece87",,"https://logos.covalenthq.com/tokens/0x3a8cccb969a61532d1e6005e2ce12c200caece87.png","2.8231368",171
+18,"Tokamak Network Token","TON","0x2be5e8c109e2197d077d13a82daead6a9b3433c5",,"https://logos.covalenthq.com/tokens/0x2be5e8c109e2197d077d13a82daead6a9b3433c5.png","7.6881895",172
+18,"Wrapped Ether","WETH","0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",,"https://logos.covalenthq.com/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png","2626.9756",2
+18,"BNB","BNB","0xb8c77482e45f1f44de1745f52c74426c631bdd52",,"https://logos.covalenthq.com/tokens/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png","380.31714",3
+6,"Tether USD","USDT","0xdac17f958d2ee523a2206206994597c13d831ec7",,"https://logos.covalenthq.com/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.png","0.9713105",4
+6,"USD Coin","USDC","0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",,"https://logos.covalenthq.com/tokens/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png","0.98019683",9
+18,"Uniswap","UNI","0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",,"https://logos.covalenthq.com/tokens/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png","25.375006",12
+18,"ChainLink Token","LINK","0x514910771af9ca656af840dff83e8264ecf986ca",,"https://logos.covalenthq.com/tokens/0x514910771af9ca656af840dff83e8264ecf986ca.png","29.75556",13
+18,"Matic Token","MATIC","0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",,"https://logos.covalenthq.com/tokens/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png","1.9020531",14
+18,"Binance USD","BUSD","0x4fabb145d64652a948d72533023f6e7a623c7c53",,"https://logos.covalenthq.com/tokens/0x4fabb145d64652a948d72533023f6e7a623c7c53.png","0.9709242",19
+8,"Wrapped BTC","WBTC","0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",,"https://logos.covalenthq.com/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png","38364.44",20
+18,"Aave Token","AAVE","0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",,"https://logos.covalenthq.com/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png","472.11447",22
+18,"SHIBA INU","SHIB","0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",,"https://logos.covalenthq.com/tokens/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png","0.000011590818",25
+18,"OKB","OKB","0x75231f58b43240c9718dd58b4967c5114342a86c",,"https://logos.covalenthq.com/tokens/0x75231f58b43240c9718dd58b4967c5114342a86c.png","18.690966",27
+8,"Compound Ether","cETH","0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",,"https://logos.covalenthq.com/tokens/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5.png","54.29873",31
+18,"Dai Stablecoin","DAI","0x6b175474e89094c44da98b954eedeac495271d0f",,"https://logos.covalenthq.com/tokens/0x6b175474e89094c44da98b954eedeac495271d0f.png","0.9790377",32
+18,"FirstBlood Token","1ST","0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",,"https://logos.covalenthq.com/tokens/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png","19.931183",32
+18,"HuobiToken","HT","0x6f259637dcd74c767781e37bc6133cd6a68aa161",,"https://logos.covalenthq.com/tokens/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png","22.629526",35
+8,"Compound Dai","cDAI","0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",,"https://logos.covalenthq.com/tokens/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643.png","0.020925289",37
+18,"Maker Token","MKR","0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",,"https://logos.covalenthq.com/tokens/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png","3921.6204",38
+8,"Compound USD Coin","cUSDC","0x39aa39c021dfbae8fac545936693ac917d5e7563",,"https://logos.covalenthq.com/tokens/0x39aa39c021dfbae8fac545936693ac917d5e7563.png","0.021470059",41
+18,"FTT","FTX Token","0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",,"https://logos.covalenthq.com/tokens/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png","40.048206",42
+18,"Avalanche","AVAX","0x9debca6ea3af87bf422cea9ac955618ceb56efb4",,"https://logos.covalenthq.com/tokens/0x9debca6ea3af87bf422cea9ac955618ceb56efb4.png","26.40736",44
+8,"CRO","CRO","0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",,"https://logos.covalenthq.com/tokens/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b.png","0.12170359",48
+18,"Bitfinex LEO Token","LEO","0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",,"https://logos.covalenthq.com/tokens/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3.png","3.1600432",50
+18,"Compound","COMP","0xc00e94cb662c3520282e6f5717214004a7f26888",,"https://logos.covalenthq.com/tokens/0xc00e94cb662c3520282e6f5717214004a7f26888.png","507.50742",52
+18,"Synthetix Network Token","SNX","0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",,"https://logos.covalenthq.com/tokens/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png","16.6618",53
+18,"SushiToken","SUSHI","0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",,"https://logos.covalenthq.com/tokens/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png","14.551886",54
+4,"Celsius","CEL","0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",,"https://logos.covalenthq.com/tokens/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png","6.3289723",55
+18,"yearn.finance","YFI","0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",,"https://logos.covalenthq.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png","50188.086",62
+18,"Amp","AMP","0xff20817765cb7f73d4bde2e66e067e58d11095c2",,"https://logos.covalenthq.com/tokens/0xff20817765cb7f73d4bde2e66e067e58d11095c2.png","0.048681434",63
+2,"Telcoin","TEL","0x467bccd9d29f223bce8043b84e8c8b282827790f",,"https://logos.covalenthq.com/tokens/0x467bccd9d29f223bce8043b84e8c8b282827790f.png","0.030479988",66
+18,"chiliZ","CHZ","0x3506424f91fd33084466f402d5d97f05f8e3b4af",,"https://logos.covalenthq.com/tokens/0x3506424f91fd33084466f402d5d97f05f8e3b4af.png","0.29131588",67
+18,"HoloToken","HOT","0x6c6ee5e31d828de241282b9606c8e98ea48526e2",,"https://logos.covalenthq.com/tokens/0x6c6ee5e31d828de241282b9606c8e98ea48526e2.png","0.007924255",70
+18,"Nexo","NEXO","0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",,"https://logos.covalenthq.com/tokens/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png","2.3996854",71
+18,"Enjin Coin","ENJ","0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",,"https://logos.covalenthq.com/tokens/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png","1.3592166",73
+18,"Basic Attention Token","BAT","0x0d8775f648430679a709e98d2b0cb6250d2887ef",,"https://logos.covalenthq.com/tokens/0x0d8775f648430679a709e98d2b0cb6250d2887ef.png","0.8283571",74
+18,"Paxos Standard","PAX","0x8e870d67f660d95d5be530380d0ec0bd388289e1",,"https://logos.covalenthq.com/tokens/0x8e870d67f660d95d5be530380d0ec0bd388289e1.png","0.9894694",77
+18,"TrueUSD","TUSD","0x0000000000085d4780b73119b644ae5ecd22b376",,"https://logos.covalenthq.com/tokens/0x0000000000085d4780b73119b644ae5ecd22b376.png","0.9705378",78
+18,"Huobi BTC","HBTC","0x0316eb71485b0ab14103307bf65a021042c6d380",,"https://logos.covalenthq.com/tokens/0x0316eb71485b0ab14103307bf65a021042c6d380.png","35941.03",80
+18,"Decentraland MANA","MANA","0x0f5d2fb29fb7d3cfee444a200298f468908cc942",,"https://logos.covalenthq.com/tokens/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png","0.89481115",81
+18,"Fantom Token","FTM","0x4e15361fd6b4bb609fa63c81a2be19d873717870",,"https://logos.covalenthq.com/tokens/0x4e15361fd6b4bb609fa63c81a2be19d873717870.png","0.44624647",82
+18,"UMA Voting Token v1","UMA","0x04fa0d235c4abf4bcf4787af4cf447de572ef828",,"https://logos.covalenthq.com/tokens/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png","18.069311",83
+18,"Chimpion","BNANA","0x07ef9e82721ac16809d24dafbe1792ce01654db4",,"https://logos.covalenthq.com/tokens/0x07ef9e82721ac16809d24dafbe1792ce01654db4.png","2.9618402",84
+18,"Fei USD","FEI","0x956f47f50a910163d8bf957cf5846d573e7f87ca",,"https://logos.covalenthq.com/tokens/0x956f47f50a910163d8bf957cf5846d573e7f87ca.png","1.0420145",85
+18,"Bancor Network Token","BNT","0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",,"https://logos.covalenthq.com/tokens/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png","5.2977767",86
+18,"SushiBar","xSUSHI","0x8798249c2e607446efb7ad49ec89dd1865ff4272",,"https://logos.covalenthq.com/tokens/0x8798249c2e607446efb7ad49ec89dd1865ff4272.png","17.166773",87
+18,"Graph Token","GRT","0xc944e90c64b2c07662a292be6244bdf05cda44a7",,"https://logos.covalenthq.com/tokens/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png","0.82797074",90
+18,"0x Protocol Token","ZRX","0xe41d2489571d322189246dafa5ebde1f4699f498",,"https://logos.covalenthq.com/tokens/0xe41d2489571d322189246dafa5ebde1f4699f498.png","1.147491",92
+18,"Liquid staked Ether 2.0","stETH","0xae7ab96520de3a18e5e111b5eaab095312d7fe84",,"https://logos.covalenthq.com/tokens/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png","2676.1204",93
+18,"GateChainToken","GT","0xe66747a101bff2dba3697199dcce5b743b454759",,"https://logos.covalenthq.com/tokens/0xe66747a101bff2dba3697199dcce5b743b454759.png","5.2239814",97
+18,"OMGToken","OMG","0xd26114cd6ee289accf82350c8d8487fedb8a0c07",,"https://logos.covalenthq.com/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png","6.1033382",98
+18,"LUSD Stablecoin","LUSD","0x5f98805a4e8be255a32880fdec7f6728c6568ba0",,"https://logos.covalenthq.com/tokens/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png","0.96821964",99
+8,"SwissBorg Token","CHSB","0xba9d4199fab4f26efe3551d490e3821486f135ba",,"https://logos.covalenthq.com/tokens/0xba9d4199fab4f26efe3551d490e3821486f135ba.png","0.88128847",100
+8,"HUSD","HUSD","0xdf574c24545e5ffecb9a659c229253d4111d87e1",,"https://logos.covalenthq.com/tokens/0xdf574c24545e5ffecb9a659c229253d4111d87e1.png","0.9987421",101
+18,"Ankr Network","ANKR","0x8290333cef9e6d528dd5618fb97a76f268f3edd4",,"https://logos.covalenthq.com/tokens/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png","0.11436274",104
+18,"Curve DAO Token","CRV","0xd533a949740bb3306d119cc777fa900ba034cd52",,"https://logos.covalenthq.com/tokens/0xd533a949740bb3306d119cc777fa900ba034cd52.png","2.1211195",105
+18,"NXM","NXM","0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",,"https://logos.covalenthq.com/tokens/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b.png","101.498474",109
+18,"CY Finance","CYF","0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8",,"https://logos.covalenthq.com/tokens/0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8.png","0.000007727212",111
+8,"Voyager","VGX","0x5af2be193a6abca9c8817001f45744777db30756",,"https://logos.covalenthq.com/tokens/0x5af2be193a6abca9c8817001f45744777db30756.png","2.8528864",111
+18,"Quant","QNT","0x4a220e6096b25eadb88358cb44068a3248254675",,"https://logos.covalenthq.com/tokens/0x4a220e6096b25eadb88358cb44068a3248254675.png","48.890453",114
+8,"Compound USDT","cUSDT","0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",,"https://logos.covalenthq.com/tokens/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png","0.020395976",116
+18,"Reserve Rights","RSR","0x8762db106b2c2a0bccb3a80d1ed41273552616e8",,"https://logos.covalenthq.com/tokens/0x8762db106b2c2a0bccb3a80d1ed41273552616e8.png","0.044045106",118
+18,"1INCH Token","1INCH","0x111111111117dc0aa78b770fa6a738034120c302",,"https://logos.covalenthq.com/tokens/0x111111111117dc0aa78b770fa6a738034120c302.png","3.5143359",119
+6,"Kucoin Shares","KCS","0x039b5649a59967e3e936d7471f9c3700100ee1ab",,"https://logos.covalenthq.com/tokens/0x039b5649a59967e3e936d7471f9c3700100ee1ab.png","6.887264",121
+18,"Livepeer Token","LPT","0x58b6a8a3302369daec383334672404ee733ab239",,"https://logos.covalenthq.com/tokens/0x58b6a8a3302369daec383334672404ee733ab239.png","22.523277",124
+9,"FEGtoken","FEG","0x389999216860ab8e0175387a0c90e5c52522c945",,"https://logos.covalenthq.com/tokens/0x389999216860ab8e0175387a0c90e5c52522c945.png",0,126
+9,"HuskyToken","HUSKY","0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091",,"https://logos.covalenthq.com/tokens/0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091.png",0,128
+18,"LoopringCoin V2","LRC","0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",,"https://logos.covalenthq.com/tokens/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png","0.38172427",128
+6,"Oxygen Ecosystem Token","OXY","0x965697b4ef02f0de01384d0d4f9f782b1670c163",,"https://logos.covalenthq.com/tokens/0x965697b4ef02f0de01384d0d4f9f782b1670c163.png","2.3200953",129
+18,"Republic Token","REN","0x408e41876cccdc0f92210600ef50372656052a38",,"https://logos.covalenthq.com/tokens/0x408e41876cccdc0f92210600ef50372656052a38.png","0.51115507",130
+8,"renBTC","renBTC","0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",,"https://logos.covalenthq.com/tokens/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png","38324.03",131
+18,"Tribe","TRIBE","0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",,"https://logos.covalenthq.com/tokens/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b.png","1.1192867",133
+18,"Pundi X Token","NPXS","0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",,"https://logos.covalenthq.com/tokens/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png","0.0018043038",137
+18,"Status Network Token","SNT","0x744d70fdbe2ba4cf95131626614a1763df805b9e",,"https://logos.covalenthq.com/tokens/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png","0.12286267",138
+18,"Pundi X Token","PUNDIX","0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",,"https://logos.covalenthq.com/tokens/0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38.png","1.6845322",139
+18,"Wrapped MIR Token","MIR","0x09a3ecafa817268f77be1283176b946c4ff2e608",,"https://logos.covalenthq.com/tokens/0x09a3ecafa817268f77be1283176b946c4ff2e608.png","6.4788804",141
+18,"Wise Token","WISE","0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",,"https://logos.covalenthq.com/tokens/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6.png","0.5436094",141
+18,"BitMax token","BTMX","0xcca0c9c383076649604ee31b20248bc04fdf61ca",,"https://logos.covalenthq.com/tokens/0xcca0c9c383076649604ee31b20248bc04fdf61ca.png","0.5393594",142
+18,"Balancer","BAL","0xba100000625a3754423978a60c9317c58a424e3d",,"https://logos.covalenthq.com/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png","36.932594",143
+18,"Shabu Shabu","KOBE","0xcb4e8cafeda995da5cedfda5205bd5664a12b848",,"https://logos.covalenthq.com/tokens/0xcb4e8cafeda995da5cedfda5205bd5664a12b848.png","9.905513",144
+8,"DENT","DENT","0x3597bfd533a99c9aa083587b074434e61eb0a258",,"https://logos.covalenthq.com/tokens/0x3597bfd533a99c9aa083587b074434e61eb0a258.png","0.004002696",145
+18,"BandToken","BAND","0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",,"https://logos.covalenthq.com/tokens/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55.png","10.453758",147
+9,"iEx.ec Network Token","RLC","0x607f4c5bb672230e8672085532f7e901544a7375",,"https://logos.covalenthq.com/tokens/0x607f4c5bb672230e8672085532f7e901544a7375.png","5.1413007",148
+18,"SKALE","SKL","0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",,"https://logos.covalenthq.com/tokens/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7.png","0.36317894",152
+18,"Ocean Token","OCEAN","0x967da4048cd07ab37855c090aaf366e4ce1b9f48",,"https://logos.covalenthq.com/tokens/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png","0.8016982",153
+18,"CelerToken","CELR","0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",,"https://logos.covalenthq.com/tokens/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667.png","0.06065861",154
+18,"Reef.finance","REEF","0xfe3e6a25e6b192a42a44ecddcd13796471735acf",,"https://logos.covalenthq.com/tokens/0xfe3e6a25e6b192a42a44ecddcd13796471735acf.png","0.026693651",155
+18,"Bounce Token","BOT","0x5beabaebb3146685dd74176f68a0721f91297d37",,"https://logos.covalenthq.com/tokens/0x5beabaebb3146685dd74176f68a0721f91297d37.png","9446.862",156
+18,"EthLend Token","LEND","0x80fb784b7ed66730e8b1dbd9820afd29931aab03",,"https://logos.covalenthq.com/tokens/0x80fb784b7ed66730e8b1dbd9820afd29931aab03.png","5.5307517",157
+18,"Injective Token","INJ","0xe28b3b32b6c345a34ff64674606124dd5aceca30",,"https://logos.covalenthq.com/tokens/0xe28b3b32b6c345a34ff64674606124dd5aceca30.png","13.144374",158
+18,"Synth sETH","sETH","0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",,"https://logos.covalenthq.com/tokens/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png","2678.7012",160
+6,"Serum","SRM","0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",,"https://logos.covalenthq.com/tokens/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff.png","6.1949058",162
+18,"Wootrade Network","WOO","0x4691937a7508860f876c9c0a2a617e7d9e945d4b",,"https://logos.covalenthq.com/tokens/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png","0.66724473",163
+4,"Alien Worlds Trilium","TLM","0x888888848b652b3e3a0f34c96e00eec0f3a23f72",,"https://logos.covalenthq.com/tokens/0x888888848b652b3e3a0f34c96e00eec0f3a23f72.png","0.23181637",164
+18,"Golem Network Token","GLM","0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",,"https://logos.covalenthq.com/tokens/0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429.png","0.29131588",165
+18,"Alchemix","ALCX","0xdbdb4d16eda451d0503b854cf79d55697f90c8df",,"https://logos.covalenthq.com/tokens/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.png","1036.3876",166
+18,"Gnosis Token","GNO","0x6810e776880c02933d47db1b9fc05908e5386b96",,"https://logos.covalenthq.com/tokens/0x6810e776880c02933d47db1b9fc05908e5386b96.png","182.5094",167
+9,"Ampleforth","AMPL","0xd46ba6d942050d489dbd938a2c909a5d5039a161",,"https://logos.covalenthq.com/tokens/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png","0.6915854",168
+8,"SingularityNET Token","AGI","0x8eb24319393716668d768dcec29356ae9cffe285",,"https://logos.covalenthq.com/tokens/0x8eb24319393716668d768dcec29356ae9cffe285.png","0.28552046",169
+18,"TitanSwap","Titan","0x3a8cccb969a61532d1e6005e2ce12c200caece87",,"https://logos.covalenthq.com/tokens/0x3a8cccb969a61532d1e6005e2ce12c200caece87.png","2.8231368",171
+18,"Tokamak Network Token","TON","0x2be5e8c109e2197d077d13a82daead6a9b3433c5",,"https://logos.covalenthq.com/tokens/0x2be5e8c109e2197d077d13a82daead6a9b3433c5.png","7.6881895",172
+18,"Wrapped Ether","WETH","0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",,"https://logos.covalenthq.com/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png","2626.9756",2
+18,"BNB","BNB","0xb8c77482e45f1f44de1745f52c74426c631bdd52",,"https://logos.covalenthq.com/tokens/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png","380.31714",3
+6,"Tether USD","USDT","0xdac17f958d2ee523a2206206994597c13d831ec7",,"https://logos.covalenthq.com/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.png","0.9713105",4
+6,"USD Coin","USDC","0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",,"https://logos.covalenthq.com/tokens/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png","0.98019683",9
+18,"Uniswap","UNI","0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",,"https://logos.covalenthq.com/tokens/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png","25.375006",12
+18,"ChainLink Token","LINK","0x514910771af9ca656af840dff83e8264ecf986ca",,"https://logos.covalenthq.com/tokens/0x514910771af9ca656af840dff83e8264ecf986ca.png","29.75556",13
+18,"Matic Token","MATIC","0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",,"https://logos.covalenthq.com/tokens/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png","1.9020531",14
+18,"Binance USD","BUSD","0x4fabb145d64652a948d72533023f6e7a623c7c53",,"https://logos.covalenthq.com/tokens/0x4fabb145d64652a948d72533023f6e7a623c7c53.png","0.9709242",19
+8,"Wrapped BTC","WBTC","0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",,"https://logos.covalenthq.com/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png","38364.44",20
+18,"Aave Token","AAVE","0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",,"https://logos.covalenthq.com/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png","472.11447",22
+18,"SHIBA INU","SHIB","0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",,"https://logos.covalenthq.com/tokens/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png","0.000011590818",25
+18,"OKB","OKB","0x75231f58b43240c9718dd58b4967c5114342a86c",,"https://logos.covalenthq.com/tokens/0x75231f58b43240c9718dd58b4967c5114342a86c.png","18.690966",27
+8,"Compound Ether","cETH","0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",,"https://logos.covalenthq.com/tokens/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5.png","54.29873",31
+18,"Dai Stablecoin","DAI","0x6b175474e89094c44da98b954eedeac495271d0f",,"https://logos.covalenthq.com/tokens/0x6b175474e89094c44da98b954eedeac495271d0f.png","0.9790377",32
+18,"FirstBlood Token","1ST","0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",,"https://logos.covalenthq.com/tokens/0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7.png","19.931183",32
+18,"HuobiToken","HT","0x6f259637dcd74c767781e37bc6133cd6a68aa161",,"https://logos.covalenthq.com/tokens/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png","22.629526",35
+8,"Compound Dai","cDAI","0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",,"https://logos.covalenthq.com/tokens/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643.png","0.020925289",37
+18,"Maker Token","MKR","0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",,"https://logos.covalenthq.com/tokens/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png","3921.6204",38
+8,"Compound USD Coin","cUSDC","0x39aa39c021dfbae8fac545936693ac917d5e7563",,"https://logos.covalenthq.com/tokens/0x39aa39c021dfbae8fac545936693ac917d5e7563.png","0.021470059",41
+18,"FTT","FTX Token","0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",,"https://logos.covalenthq.com/tokens/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png","40.048206",42
+18,"Avalanche","AVAX","0x9debca6ea3af87bf422cea9ac955618ceb56efb4",,"https://logos.covalenthq.com/tokens/0x9debca6ea3af87bf422cea9ac955618ceb56efb4.png","26.40736",44
+8,"CRO","CRO","0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",,"https://logos.covalenthq.com/tokens/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b.png","0.12170359",48
+18,"Bitfinex LEO Token","LEO","0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",,"https://logos.covalenthq.com/tokens/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3.png","3.1600432",50
+18,"Compound","COMP","0xc00e94cb662c3520282e6f5717214004a7f26888",,"https://logos.covalenthq.com/tokens/0xc00e94cb662c3520282e6f5717214004a7f26888.png","507.50742",52
+18,"Synthetix Network Token","SNX","0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",,"https://logos.covalenthq.com/tokens/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png","16.6618",53
+18,"SushiToken","SUSHI","0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",,"https://logos.covalenthq.com/tokens/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png","14.551886",54
+4,"Celsius","CEL","0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",,"https://logos.covalenthq.com/tokens/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png","6.3289723",55
+18,"yearn.finance","YFI","0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",,"https://logos.covalenthq.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png","50188.086",62
+18,"Amp","AMP","0xff20817765cb7f73d4bde2e66e067e58d11095c2",,"https://logos.covalenthq.com/tokens/0xff20817765cb7f73d4bde2e66e067e58d11095c2.png","0.048681434",63
+2,"Telcoin","TEL","0x467bccd9d29f223bce8043b84e8c8b282827790f",,"https://logos.covalenthq.com/tokens/0x467bccd9d29f223bce8043b84e8c8b282827790f.png","0.030479988",66
+18,"chiliZ","CHZ","0x3506424f91fd33084466f402d5d97f05f8e3b4af",,"https://logos.covalenthq.com/tokens/0x3506424f91fd33084466f402d5d97f05f8e3b4af.png","0.29131588",67
+18,"HoloToken","HOT","0x6c6ee5e31d828de241282b9606c8e98ea48526e2",,"https://logos.covalenthq.com/tokens/0x6c6ee5e31d828de241282b9606c8e98ea48526e2.png","0.007924255",70
+18,"Nexo","NEXO","0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",,"https://logos.covalenthq.com/tokens/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206.png","2.3996854",71
+18,"Enjin Coin","ENJ","0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",,"https://logos.covalenthq.com/tokens/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png","1.3592166",73
+18,"Basic Attention Token","BAT","0x0d8775f648430679a709e98d2b0cb6250d2887ef",,"https://logos.covalenthq.com/tokens/0x0d8775f648430679a709e98d2b0cb6250d2887ef.png","0.8283571",74
+18,"Paxos Standard","PAX","0x8e870d67f660d95d5be530380d0ec0bd388289e1",,"https://logos.covalenthq.com/tokens/0x8e870d67f660d95d5be530380d0ec0bd388289e1.png","0.9894694",77
+18,"TrueUSD","TUSD","0x0000000000085d4780b73119b644ae5ecd22b376",,"https://logos.covalenthq.com/tokens/0x0000000000085d4780b73119b644ae5ecd22b376.png","0.9705378",78
+18,"Huobi BTC","HBTC","0x0316eb71485b0ab14103307bf65a021042c6d380",,"https://logos.covalenthq.com/tokens/0x0316eb71485b0ab14103307bf65a021042c6d380.png","35941.03",80
+18,"Decentraland MANA","MANA","0x0f5d2fb29fb7d3cfee444a200298f468908cc942",,"https://logos.covalenthq.com/tokens/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png","0.89481115",81
+18,"Fantom Token","FTM","0x4e15361fd6b4bb609fa63c81a2be19d873717870",,"https://logos.covalenthq.com/tokens/0x4e15361fd6b4bb609fa63c81a2be19d873717870.png","0.44624647",82
+18,"UMA Voting Token v1","UMA","0x04fa0d235c4abf4bcf4787af4cf447de572ef828",,"https://logos.covalenthq.com/tokens/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png","18.069311",83
+18,"Chimpion","BNANA","0x07ef9e82721ac16809d24dafbe1792ce01654db4",,"https://logos.covalenthq.com/tokens/0x07ef9e82721ac16809d24dafbe1792ce01654db4.png","2.9618402",84
+18,"Fei USD","FEI","0x956f47f50a910163d8bf957cf5846d573e7f87ca",,"https://logos.covalenthq.com/tokens/0x956f47f50a910163d8bf957cf5846d573e7f87ca.png","1.0420145",85
+18,"Bancor Network Token","BNT","0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",,"https://logos.covalenthq.com/tokens/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png","5.2977767",86
+18,"SushiBar","xSUSHI","0x8798249c2e607446efb7ad49ec89dd1865ff4272",,"https://logos.covalenthq.com/tokens/0x8798249c2e607446efb7ad49ec89dd1865ff4272.png","17.166773",87
+18,"Graph Token","GRT","0xc944e90c64b2c07662a292be6244bdf05cda44a7",,"https://logos.covalenthq.com/tokens/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png","0.82797074",90
+18,"0x Protocol Token","ZRX","0xe41d2489571d322189246dafa5ebde1f4699f498",,"https://logos.covalenthq.com/tokens/0xe41d2489571d322189246dafa5ebde1f4699f498.png","1.147491",92
+18,"Liquid staked Ether 2.0","stETH","0xae7ab96520de3a18e5e111b5eaab095312d7fe84",,"https://logos.covalenthq.com/tokens/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png","2676.1204",93
+18,"GateChainToken","GT","0xe66747a101bff2dba3697199dcce5b743b454759",,"https://logos.covalenthq.com/tokens/0xe66747a101bff2dba3697199dcce5b743b454759.png","5.2239814",97
+18,"OMGToken","OMG","0xd26114cd6ee289accf82350c8d8487fedb8a0c07",,"https://logos.covalenthq.com/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png","6.1033382",98
+18,"LUSD Stablecoin","LUSD","0x5f98805a4e8be255a32880fdec7f6728c6568ba0",,"https://logos.covalenthq.com/tokens/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png","0.96821964",99
+8,"SwissBorg Token","CHSB","0xba9d4199fab4f26efe3551d490e3821486f135ba",,"https://logos.covalenthq.com/tokens/0xba9d4199fab4f26efe3551d490e3821486f135ba.png","0.88128847",100
+8,"HUSD","HUSD","0xdf574c24545e5ffecb9a659c229253d4111d87e1",,"https://logos.covalenthq.com/tokens/0xdf574c24545e5ffecb9a659c229253d4111d87e1.png","0.9987421",101
+18,"Ankr Network","ANKR","0x8290333cef9e6d528dd5618fb97a76f268f3edd4",,"https://logos.covalenthq.com/tokens/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png","0.11436274",104
+18,"Curve DAO Token","CRV","0xd533a949740bb3306d119cc777fa900ba034cd52",,"https://logos.covalenthq.com/tokens/0xd533a949740bb3306d119cc777fa900ba034cd52.png","2.1211195",105
+18,"NXM","NXM","0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",,"https://logos.covalenthq.com/tokens/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b.png","101.498474",109
+18,"CY Finance","CYF","0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8",,"https://logos.covalenthq.com/tokens/0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8.png","0.000007727212",111
+8,"Voyager","VGX","0x5af2be193a6abca9c8817001f45744777db30756",,"https://logos.covalenthq.com/tokens/0x5af2be193a6abca9c8817001f45744777db30756.png","2.8528864",111
+18,"Quant","QNT","0x4a220e6096b25eadb88358cb44068a3248254675",,"https://logos.covalenthq.com/tokens/0x4a220e6096b25eadb88358cb44068a3248254675.png","48.890453",114
+8,"Compound USDT","cUSDT","0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",,"https://logos.covalenthq.com/tokens/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9.png","0.020395976",116
+18,"Reserve Rights","RSR","0x8762db106b2c2a0bccb3a80d1ed41273552616e8",,"https://logos.covalenthq.com/tokens/0x8762db106b2c2a0bccb3a80d1ed41273552616e8.png","0.044045106",118
+18,"1INCH Token","1INCH","0x111111111117dc0aa78b770fa6a738034120c302",,"https://logos.covalenthq.com/tokens/0x111111111117dc0aa78b770fa6a738034120c302.png","3.5143359",119
+6,"Kucoin Shares","KCS","0x039b5649a59967e3e936d7471f9c3700100ee1ab",,"https://logos.covalenthq.com/tokens/0x039b5649a59967e3e936d7471f9c3700100ee1ab.png","6.887264",121
+18,"Livepeer Token","LPT","0x58b6a8a3302369daec383334672404ee733ab239",,"https://logos.covalenthq.com/tokens/0x58b6a8a3302369daec383334672404ee733ab239.png","22.523277",124
+9,"FEGtoken","FEG","0x389999216860ab8e0175387a0c90e5c52522c945",,"https://logos.covalenthq.com/tokens/0x389999216860ab8e0175387a0c90e5c52522c945.png",0,126
+9,"HuskyToken","HUSKY","0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091",,"https://logos.covalenthq.com/tokens/0xd5281bb2d1ee94866b03a0fccdd4e900c8cb5091.png",0,128
+18,"LoopringCoin V2","LRC","0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",,"https://logos.covalenthq.com/tokens/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png","0.38172427",128
+6,"Oxygen Ecosystem Token","OXY","0x965697b4ef02f0de01384d0d4f9f782b1670c163",,"https://logos.covalenthq.com/tokens/0x965697b4ef02f0de01384d0d4f9f782b1670c163.png","2.3200953",129
+18,"Republic Token","REN","0x408e41876cccdc0f92210600ef50372656052a38",,"https://logos.covalenthq.com/tokens/0x408e41876cccdc0f92210600ef50372656052a38.png","0.51115507",130
+8,"renBTC","renBTC","0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",,"https://logos.covalenthq.com/tokens/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png","38324.03",131
+18,"Tribe","TRIBE","0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",,"https://logos.covalenthq.com/tokens/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b.png","1.1192867",133
+18,"Pundi X Token","NPXS","0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",,"https://logos.covalenthq.com/tokens/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png","0.0018043038",137
+18,"Status Network Token","SNT","0x744d70fdbe2ba4cf95131626614a1763df805b9e",,"https://logos.covalenthq.com/tokens/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png","0.12286267",138
+18,"Pundi X Token","PUNDIX","0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",,"https://logos.covalenthq.com/tokens/0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38.png","1.6845322",139
+18,"Wrapped MIR Token","MIR","0x09a3ecafa817268f77be1283176b946c4ff2e608",,"https://logos.covalenthq.com/tokens/0x09a3ecafa817268f77be1283176b946c4ff2e608.png","6.4788804",141
+18,"Wise Token","WISE","0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",,"https://logos.covalenthq.com/tokens/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6.png","0.5436094",141
+18,"BitMax token","BTMX","0xcca0c9c383076649604ee31b20248bc04fdf61ca",,"https://logos.covalenthq.com/tokens/0xcca0c9c383076649604ee31b20248bc04fdf61ca.png","0.5393594",142
+18,"Balancer","BAL","0xba100000625a3754423978a60c9317c58a424e3d",,"https://logos.covalenthq.com/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png","36.932594",143
+18,"Shabu Shabu","KOBE","0xcb4e8cafeda995da5cedfda5205bd5664a12b848",,"https://logos.covalenthq.com/tokens/0xcb4e8cafeda995da5cedfda5205bd5664a12b848.png","9.905513",144
+8,"DENT","DENT","0x3597bfd533a99c9aa083587b074434e61eb0a258",,"https://logos.covalenthq.com/tokens/0x3597bfd533a99c9aa083587b074434e61eb0a258.png","0.004002696",145
+18,"BandToken","BAND","0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",,"https://logos.covalenthq.com/tokens/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55.png","10.453758",147
+9,"iEx.ec Network Token","RLC","0x607f4c5bb672230e8672085532f7e901544a7375",,"https://logos.covalenthq.com/tokens/0x607f4c5bb672230e8672085532f7e901544a7375.png","5.1413007",148
+18,"SKALE","SKL","0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",,"https://logos.covalenthq.com/tokens/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7.png","0.36317894",152
+18,"Ocean Token","OCEAN","0x967da4048cd07ab37855c090aaf366e4ce1b9f48",,"https://logos.covalenthq.com/tokens/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png","0.8016982",153
+18,"CelerToken","CELR","0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",,"https://logos.covalenthq.com/tokens/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667.png","0.06065861",154
+18,"Reef.finance","REEF","0xfe3e6a25e6b192a42a44ecddcd13796471735acf",,"https://logos.covalenthq.com/tokens/0xfe3e6a25e6b192a42a44ecddcd13796471735acf.png","0.026693651",155
+18,"Bounce Token","BOT","0x5beabaebb3146685dd74176f68a0721f91297d37",,"https://logos.covalenthq.com/tokens/0x5beabaebb3146685dd74176f68a0721f91297d37.png","9446.862",156
+18,"EthLend Token","LEND","0x80fb784b7ed66730e8b1dbd9820afd29931aab03",,"https://logos.covalenthq.com/tokens/0x80fb784b7ed66730e8b1dbd9820afd29931aab03.png","5.5307517",157
+18,"Injective Token","INJ","0xe28b3b32b6c345a34ff64674606124dd5aceca30",,"https://logos.covalenthq.com/tokens/0xe28b3b32b6c345a34ff64674606124dd5aceca30.png","13.144374",158
+18,"Synth sETH","sETH","0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",,"https://logos.covalenthq.com/tokens/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png","2678.7012",160
+6,"Serum","SRM","0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",,"https://logos.covalenthq.com/tokens/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff.png","6.1949058",162
+18,"Wootrade Network","WOO","0x4691937a7508860f876c9c0a2a617e7d9e945d4b",,"https://logos.covalenthq.com/tokens/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png","0.66724473",163
+4,"Alien Worlds Trilium","TLM","0x888888848b652b3e3a0f34c96e00eec0f3a23f72",,"https://logos.covalenthq.com/tokens/0x888888848b652b3e3a0f34c96e00eec0f3a23f72.png","0.23181637",164
+18,"Golem Network Token","GLM","0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",,"https://logos.covalenthq.com/tokens/0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429.png","0.29131588",165
+18,"Alchemix","ALCX","0xdbdb4d16eda451d0503b854cf79d55697f90c8df",,"https://logos.covalenthq.com/tokens/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.png","1036.3876",166
+18,"Gnosis Token","GNO","0x6810e776880c02933d47db1b9fc05908e5386b96",,"https://logos.covalenthq.com/tokens/0x6810e776880c02933d47db1b9fc05908e5386b96.png","182.5094",167
+9,"Ampleforth","AMPL","0xd46ba6d942050d489dbd938a2c909a5d5039a161",,"https://logos.covalenthq.com/tokens/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png","0.6915854",168
+8,"SingularityNET Token","AGI","0x8eb24319393716668d768dcec29356ae9cffe285",,"https://logos.covalenthq.com/tokens/0x8eb24319393716668d768dcec29356ae9cffe285.png","0.28552046",169
+18,"TitanSwap","Titan","0x3a8cccb969a61532d1e6005e2ce12c200caece87",,"https://logos.covalenthq.com/tokens/0x3a8cccb969a61532d1e6005e2ce12c200caece87.png","2.8231368",171
+18,"Tokamak Network Token","TON","0x2be5e8c109e2197d077d13a82daead6a9b3433c5",,"https://logos.covalenthq.com/tokens/0x2be5e8c109e2197d077d13a82daead6a9b3433c5.png","7.6881895",172
